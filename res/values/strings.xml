@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Welcome to , ECnET!</string>
+    <string name="app_name">ECnET</string>
+    <string name="hintMessage">Type your command to send it or type /help to get a list of commands</string>
+	<string name="titleSend">Send</string>
+	<string name="titlePeers">Available Peers</string>
+</resources>
