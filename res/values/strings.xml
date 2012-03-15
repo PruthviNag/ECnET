@@ -6,4 +6,7 @@
     <string name="hintMessage">Type your command to send it or type /help to get a list of commands</string>
 	<string name="titleSend">Send</string>
 	<string name="titlePeers">Available Peers</string>
+	<string name="deviceName">Device Name</string>
+	<string name="deviceAddress">Device Address</string>
+	<string name="deviceStatus">Device Status</string>
 </resources>
